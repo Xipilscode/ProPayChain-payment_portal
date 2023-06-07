@@ -40,7 +40,7 @@ Please follow the steps outlined below to set up ProPayChain on your local machi
 
 2. Navigate to the Project Folder: Use your terminal to navigate to the cloned repository's location on your computer.
 
-3. Install Python (if necessary): Make sure you have Python installed on your system. You can check this by typing `python --version into your terminal`. If Python isn't already installed, download it from the official [Python](https://www.python.org/downloads/release/python-385/) website.
+3. Install Python (if necessary): Make sure you have Python installed on your system. You can check this by typing `python --version` into your terminal . If Python isn't already installed, download it from the official [Python](https://www.python.org/downloads/release/python-385/) website.
 
 4. Install Streamlit: Streamlit is the open-source app framework on which our web interface is built. To install it, use the following pip command in your terminal:
 ```
