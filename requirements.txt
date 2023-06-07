@@ -1,0 +1,6 @@
+conda==4.3.16
+requests==2.26.0 
+python-dotenv==1.0.0
+streamlit==1.21.0
+web3==5.17.0
+
